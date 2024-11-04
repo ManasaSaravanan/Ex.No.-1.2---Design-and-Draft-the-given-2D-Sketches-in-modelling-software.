@@ -36,6 +36,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
+ [Ex. 1.2 Drawing v2 (1).pdf](https://github.com/user-attachments/files/17621556/Ex.1.2.Drawing.v2.1.pdf)
+
  
  
  ## RESULT
